@@ -1,2 +1,2 @@
 # billutest
-th is for tutoria; purpose
+th is for tutorial purpose
